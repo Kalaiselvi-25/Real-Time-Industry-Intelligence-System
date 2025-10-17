@@ -1,0 +1,11 @@
+pandas         read, store, and manage news data in tables (CSV files) 
+
+requests       To fetch news from the internet (NewsAPI)
+
+python-dotenv  To securely use API keys from a .env file
+
+nltk           To process text (remove common words, clean text)
+
+textblob       To check if news is Positive, Negative, or Neutral
+
+matplotlib     To make charts and visualize data 
