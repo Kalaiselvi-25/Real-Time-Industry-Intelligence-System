@@ -1,5 +1,5 @@
 # 📊 Real-Time Industry Intelligence System
-A powerful modular system that collects real-time industry data, performs trend forecasting, and provides AI-powered insights. Built for analysts, researchers, and businesses who need fast, accurate intelligence with an easy-to-use interface.
+A modular system that collects real-time industry data, analyzes trends, and provides AI-powered insights through an easy-to-use interface.
 
 ## ✨ Features
 * 📥 **Data Ingestion:** Pull industry data from APIs in real time
